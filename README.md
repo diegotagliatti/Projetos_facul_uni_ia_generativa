@@ -1,16 +1,18 @@
-============================================================
+------------------------------------
 ARQUIVO: CHATBOTS_COMPLETOS.txt
-============================================================
+------------------------------------
 
+------------------------------------
 Este arquivo contém:
+------------------------------------
+
   - README com instruções detalhadas para instalação e execução
   - Código fonte de BOT_700mb.py
   - Código fonte de botQ2.py
   - Código fonte de chatbot_ollana.py
-
-============================================================
+------------------------------------
 LEIA-ME – INSTRUÇÕES PARA RODAR OS CHATBOTS
-============================================================
+------------------------------------
 
 Os três bots utilizam modelos de linguagem diferentes e são
 independentes. Escolha o que melhor atende sua necessidade.
