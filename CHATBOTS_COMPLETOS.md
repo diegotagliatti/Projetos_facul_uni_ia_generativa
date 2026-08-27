@@ -129,6 +129,3 @@ ESTRUTURA DE ARQUIVOS ESPERADA
   ├── base.txt          (usado por botQ2 e chatbot_ollana, criado automaticamente pelo último)
   └── base_geral.txt    (criado automaticamente pelo BOT_700mb)
 
-============================================================
-FIM DO README
-============================================================
