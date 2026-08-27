@@ -1,0 +1,13 @@
+
+[
+{"id":"r1","n":"Pão de Queijo","ing":["500g polvilho azedo","1xic água","1xic leite","1xic óleo","2 ovos","300g queijo","sal"],"passos":"Ferva líquidos e sal. Escalde polvilho. Misture ovos e queijo. Asse 180C/25m"},
+{"id":"r2","n":"Brigadeiro","ing":["1 leite condensado","3cs cacau","1cs manteiga"],"passos":"Fogo baixo mexendo até desgrudar do fundo. Esfrie, enrole no granulado"},
+{"id":"r3","n":"Arroz Branco","ing":["1xic arroz","2xic água fervente","alho","óleo","sal"],"passos":"Refogue alho e arroz no óleo. Adicione água e sal. Cozinhe até secar"},
+{"id":"r4","n":"Omelete","ing":["2 ovos","50g queijo","1/2 tomate","sal","orégano"],"passos":"Bata ovos, misture tudo. Doure dos 2 lados na frigideira com manteiga"},
+{"id":"r5","n":"Macarrão Alho Óleo","ing":["200g macarrão","4 alho","4cs azeite","sal"],"passos":"Cozinhe macarrão. Doure alho fatiado no azeite. Misture macarrão cozido"},
+{"id":"r6","n":"Bolo Cenoura","ing":["3 cenouras","3 ovos","1xic óleo","2xic açúcar","2xic trigo","1cs fermento"],"passos":"Bata líquidos e cenoura no liquidificador. Misture secos. Asse 180C/40m"},
+{"id":"r7","n":"Bolonhesa","ing":["400g carne moída","1 cebola","2 alho","2 latas tomate pelado"],"passos":"Refogue cebola, alho e carne. Junte tomates amassados, cozinhe 25m"},
+{"id":"r8","n":"Guacamole","ing":["1 abacate","1 tomate","1/2 cebola roxa","limão","azeite","sal","coentro"],"passos":"Amasse abacate. Misture picados, regue com limão e azeite. Tempere"},
+{"id":"r9","n":"Sopa Carne","ing":["300g carne","2 batatas","1 cenoura","1 cebola","1L caldo"],"passos":"Doure carne e cebola. Cozinhe na pressão 15m. Junte legumes, cozinhe até amaciar"},
+{"id":"r10","n":"Panqueca Frango","ing":["Massa:1xic leite,1xic trigo,1 ovo,óleo,sal","Recheio:frango desfiado"],"passos":"Bata massa, doure discos na frigideira. Recheie com frango e enrole"}
+]
